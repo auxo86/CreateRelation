@@ -1,0 +1,53 @@
+a has member b
+a has member d
+a has member i
+a has member j
+a has member e
+a has member k
+a has member f
+a has member l
+a has member c
+a has member g
+a has member m
+a has member h
+
+a has child b
+a has child c
+
+b has member d
+b has member i
+b has member j
+b has member e
+b has member k
+b has member f
+b has member l
+
+b has child d
+b has child e
+b has child f
+
+d has member i
+d has member j
+
+d has child i
+d has child j
+
+e has member k
+
+e has child k
+
+f has member l
+
+f has child l
+
+c has member g
+c has member m
+c has member h
+
+c has child g
+c has child h
+
+g has member m
+
+g has child m
+
